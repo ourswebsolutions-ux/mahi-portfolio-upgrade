@@ -15,7 +15,7 @@ export const site = {
   avatar: "/mahi.jpg",
   portrait: "/mahi.jpg",
   email: "mahi@mahivirtual.com",
-  bookingUrl: "https://cal.com",
+  bookingUrl: "https://calendly.com/maha-mahivirtual/30min",
   socials: {
     x: { href: "https://x.com", label: "1,214" }, // PLACEHOLDER follower count
     instagram: "https://instagram.com",
